@@ -1,0 +1,9 @@
+.ImgClass{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+img{
+    margin : 10%;
+}

@@ -1,0 +1,9 @@
+.Juices{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 90%;
+}
+.thelab{
+    justify-content: center;
+}
